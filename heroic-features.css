@@ -1,0 +1,33 @@
+
+ 
+
+body {
+    padding-top: 70px; 
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.jumbotron{
+	 background-image: url("../img/libros.jpg") !important;
+}
+h1{
+	color: white !important;
+}
+.jumbotron p{
+	color: white !important;	
+}
+.well{
+	background-color: #2b7c12 !important;
+}
+legend{
+	color: white !important;
+}
