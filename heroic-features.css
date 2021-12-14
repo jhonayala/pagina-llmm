@@ -17,7 +17,7 @@ footer {
     margin: 50px 0;
 }
 .jumbotron{
-	 background-image: url("../img/libros.jpg") !important;
+	 background-image: url("libros.jpg") !important;
 }
 h1{
 	color: white !important;
